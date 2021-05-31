@@ -97,8 +97,8 @@ body {
     float: right;
 }
 
-/* === IMPORTANTE ========================================================================
-   A partir de aqui, se pueden anadir todos los estilos propios que sean necesarios.
+/* ====================================================================================
+  SEPARADOR
    ======================================================================================= */
 
 #cabecera,
@@ -117,16 +117,16 @@ body {
 
 
 
-    #cabecera h1 {
-        background: url(logo.png) no-repeat;
-       
-        width: 170px;
-        height: 55px;
-    }
+#cabecera h1 {
+    background: url(logo.png) no-repeat;
+   
+    width: 170px;
+    height: 55px;
+}
 
-        #cabecera h1 span {
-            visibility: hidden;
-        }
+    #cabecera h1 span {
+        visibility: hidden;
+    }
 
 #menu {
     margin-bottom: .5em;
